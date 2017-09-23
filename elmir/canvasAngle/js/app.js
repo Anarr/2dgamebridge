@@ -1,3 +1,5 @@
+// Closuers
+
 window.onload = function() {
     var canvas = document.getElementById('myCanvas'),
         ctx = canvas.getContext('2d'),
